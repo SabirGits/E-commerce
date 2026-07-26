@@ -1,0 +1,6 @@
+{
+  "name": "TRENDHUB 3D E-Commerce",
+  "description": "Next-Gen 3D Tech E-Commerce Application with Interactive Product Viewers, Real-Time Cart, Wishlist, Admin Dashboard, and Ads System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
